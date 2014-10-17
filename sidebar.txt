@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[plv:home|Door43 (plv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-plv|d43-plv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-plv/archive/master.zip|d43-plv.zip]]
+
+**Recent Changes**
+{{changes>ns = plv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/plv|Ethnologue data]]
+
